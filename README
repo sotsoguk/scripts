@@ -1,0 +1,7 @@
+Some useful bash scripts for OSX / LINUX command line
+
+
+Explanation
+createBlenderBatch.sh
+	create a shell script to render all blend (Animation) files in a directory
+
