@@ -5,3 +5,5 @@ Explanation
 createBlenderBatch.sh
 	create a shell script to render all blend (Animation) files in a directory
 
+photoPreProcessing.sh
+    requires exiftool; copy different photo formats in according subdirectories; rename files to DATE_TIME (CAMERA_MODEL)
